@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container-top-section {
+    background-color: #fb4e71;
+    font-family: "roboto";
+    font-size: 19px;
+    color: #ffffff;
+    padding: 15px;
+}
+
+.heading1 {
+    font-weight: bold;
+}
+
+.rahul-image {
+    height: 180px;
+    width: 110px;
+}
+
+.bg-container-bottom-section {
+    background-color: #e6f6ff;
+    color: #323f4b;
+}
+
+.heading2 {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "roboto";
+    padding: 10px;
+}
+
+.card {
+    border-radius: 20px;
+    margin: 10px;
+    background-color: #ffffff;
+}
+
+.heading3 {
+    font-size: 25px;
+    padding: 5px;
+}
+
+.para1 {
+    padding: 5px;
+    color: #888888;
+}
+
+.rahul-image2 {
+    height: 150px;
+    width: 130px;
+}
+
+.rahul-image3 {
+    height: 120px;
+    width: 120px;
+}
+
+.videos1 {
+    padding: 10px;
+}
+
+.view-more-button {
+    padding: 10px;
+    text-align: center;
+
+}
